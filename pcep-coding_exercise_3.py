@@ -1,4 +1,4 @@
-# Coding Exercise 3: Praccticing input()
+# Coding Exercise 3: Practicing input()
 #
 # Scenario:
 #
