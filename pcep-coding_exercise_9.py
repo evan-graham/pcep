@@ -43,5 +43,5 @@ while True:
         print('Translation:', sample_dict[user_input])
     else:
         print('No match!')
-        
-print("Bye!")
+
+print('Bye!')
